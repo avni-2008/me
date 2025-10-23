@@ -182,11 +182,11 @@ body {
 .polaroid-1 { top: 8%; left: 5%; transform: rotate(-8deg); }
 .polaroid-2 { top: 7%; left: 40%; transform: rotate(5deg); }
 .polaroid-3 { top: 9%; right: 8%; transform: rotate(-10deg); }
-.polaroid-8 { top: 7%; right: 30%; transform: rotate(10deg); }
+/* .polaroid-8 { top: 7%; right: 30%; transform: rotate(10deg); } */
 .polaroid-4 { bottom: 5%; left: 8%; transform: rotate(7deg); }
-.polaroid-5 { bottom: 2%; left: 40%; transform: rotate(-4deg); }
+/* .polaroid-5 { bottom: 2%; left: 40%; transform: rotate(-4deg); } */
 .polaroid-6 { bottom: 5%; right: 7%; transform: rotate(8deg); }
-.polaroid-7 { bottom: 6%; right: 30%; transform: rotate(-5deg); }
+.polaroid-7 { bottom: 6%; right: 40%; transform: rotate(-5deg); }
 
 /* Make hero section relative for absolute positioning */
 .hero {
